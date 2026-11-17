@@ -19,4 +19,8 @@ Each venue folder has its own README with the details of the event and the proje
 
 | Year | Venue | Project |
 | --- | --- | --- |
-| 2026 | [OntoLitS](2026/ontolits) | [`The Monomyth Ontology`](https://github.com/metamuses/monomyth) |
+| 2026 | [OntoLitS](2026/ontolits) | [The Monomyth Ontology](https://github.com/metamuses/monomyth) |
+
+## License
+
+Content is released under [CC BY 4.0](LICENSE) unless a venue folder states otherwise (for example, publisher copyright on published versions).
